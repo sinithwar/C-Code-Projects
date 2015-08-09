@@ -1,0 +1,6 @@
+H:\Projects\CSharp\Permutations.cs\Permutations.cs\bin\Debug\Permutations.cs.exe.config
+H:\Projects\CSharp\Permutations.cs\Permutations.cs\obj\Debug\Permutations.cs.csprojResolveAssemblyReference.cache
+H:\Projects\CSharp\Permutations.cs\Permutations.cs\bin\Debug\Permutations.cs.exe
+H:\Projects\CSharp\Permutations.cs\Permutations.cs\bin\Debug\Permutations.cs.pdb
+H:\Projects\CSharp\Permutations.cs\Permutations.cs\obj\Debug\Permutations.cs.exe
+H:\Projects\CSharp\Permutations.cs\Permutations.cs\obj\Debug\Permutations.cs.pdb
